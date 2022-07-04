@@ -1,4 +1,4 @@
-# Привет, меня зовут Иван!
+# Привет, я Ленковец Иван!
 - Я Junior Frontend Developer из Беларуси. 
 - Student of [Polessu](https://www.polessu.by/). 👨‍🎓
 - Создаю сайты и учусь создавать веб приложения 👨‍💻
