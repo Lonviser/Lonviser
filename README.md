@@ -1,4 +1,4 @@
-# Привет, я Ваня!
+# Привет, меня зовут Иван!
 - Я Junior Frontend Developer из Беларуси. 
 - Student of [Polessu](https://www.polessu.by/). 👨‍🎓
 - Создаю сайты и учусь создавать веб приложения 👨‍💻
