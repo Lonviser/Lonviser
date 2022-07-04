@@ -23,6 +23,6 @@
   
 ## 🔗 Связь со мной
 
-**Тelegram https://telegram.me/lonviser
+Тelegram https://telegram.me/lonviser
 
-**E-mail ivan.lenkowets@yandex.by
+E-mail ivan.lenkowets@yandex.by
