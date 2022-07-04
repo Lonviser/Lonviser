@@ -10,11 +10,11 @@
 
 **Вёрстка:** HTML, CSS, Sass, Scss, Bootstrap.
 
-**Frontend:** JavaScript, jQuery
+**Frontend:** JavaScript, jQuery.
 
 **Backend:** PHP.
 
-**CMS:** Worpress
+**CMS:** Worpress.
 
 **Базы данных:** MYSQL, SqlServer.
 
