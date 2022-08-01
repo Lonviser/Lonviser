@@ -18,7 +18,7 @@
 
 **Базы данных:** MYSQL, SqlServer.
 
-**Инструменты:** Git, VS Code, PHP Storm.
+**Инструменты:** Git, VS Code, PHP Storm, Figma, Photoshop.
 
   
 ## 🔗 Связь со мной
