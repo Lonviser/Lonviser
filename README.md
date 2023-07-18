@@ -1,6 +1,6 @@
 # Привет, я Ваня!
 - Я Junior Frontend Developer из Беларуси. 
-- Student of [Polessu](https://www.polessu.by/). 👨‍🎓
+- Bachelor of [Polessu](https://www.polessu.by/). 👨‍🎓
 - Создаю сайты и учусь создавать веб приложения 👨‍💻
 - Сейчас изучаю JavaScript, React. 📖
 - Люблю путешествовать и проводить время с друзьями. 🏖
