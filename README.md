@@ -10,9 +10,9 @@
 
 **Вёрстка:** HTML, CSS, Sass, Scss, Bootstrap.
 
-**Frontend:** JavaScript, jQuery.
+**Frontend:** JavaScript, React.
 
-**Backend:** PHP.
+**Backend:** PHP, C#
 
 **CMS:** Worpress.
 
