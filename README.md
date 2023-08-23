@@ -16,7 +16,7 @@
 
 **CMS:** Worpress.
 
-**Базы данных:** MYSQL, SqlServer.
+**Базы данных:** MYSQL, SqlServer, MongoDB.
 
 **Инструменты:** Git, VS Code, PHP Storm, Figma, Photoshop.
 
