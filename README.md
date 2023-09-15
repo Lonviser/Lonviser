@@ -12,11 +12,11 @@
 
 **Frontend:** JavaScript, React.
 
-**Backend:** PHP, C#
+**Backend:** PHP, Node Js
 
 **CMS:** Worpress.
 
-**Базы данных:** MYSQL, SqlServer, MongoDB.
+**Базы данных:** MYSQL, SqlServer, MongoDB, PostgreSQL.
 
 **Инструменты:** Git, VS Code, PHP Storm, Figma, Photoshop.
 
