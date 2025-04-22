@@ -12,13 +12,13 @@
 
 **Frontend:** JavaScript, React.
 
-**Backend:** PHP, Node Js
+**Backend:** Node Js, PHP
 
 **CMS:** Worpress.
 
 **Базы данных:** MYSQL, SqlServer, MongoDB, PostgreSQL.
 
-**Инструменты:** Git, VS Code, PHP Storm, Figma, Photoshop.
+**Инструменты:** Git, VS Code, Figma, Photoshop.
 
   
 ## 🔗 Связь со мной
