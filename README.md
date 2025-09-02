@@ -1,8 +1,8 @@
 # Привет, меня зовут Иван.
-- Я Junior Frontend Developer из Беларуси. 
+- Я Frontend Developer из Беларуси. 
 - Bachelor of [Polessu](https://www.polessu.by/). 👨‍🎓
 - Создаю сайты и учусь создавать веб приложения 👨‍💻
-- Сейчас изучаю JavaScript, React. 📖
+- Люблю работать с JavaScript, React. 📖
 - Люблю путешествовать и проводить время с друзьями. 🏖
   
   
@@ -10,7 +10,7 @@
 
 **Вёрстка:** HTML, CSS, Sass, Scss, Bootstrap.
 
-**Frontend:** JavaScript, React.
+**Frontend:** JavaScript, TypeScript, React.
 
 **Backend:** Node Js, PHP
 
