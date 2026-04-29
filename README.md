@@ -6,21 +6,6 @@
 - Люблю путешествовать и проводить время с друзьями. 🏖
   
   
-## ✔️ Навыки
-
-**Вёрстка:** HTML, CSS, Sass, Scss, Bootstrap.
-
-**Frontend:** JavaScript, TypeScript, React.
-
-**Backend:** Node Js, PHP
-
-**CMS:** Worpress.
-
-**Базы данных:** MYSQL, SqlServer, MongoDB, PostgreSQL.
-
-**Инструменты:** Git, VS Code, Figma, Photoshop.
-
-  
 ## 🔗 Связь со мной
 
 Тelegram https://telegram.me/lonviser
